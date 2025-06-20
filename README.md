@@ -17,4 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafaizi557&show_icons=true&locale=en&layout=compact" alt="sarafaizi557" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarafaizi557&show_icons=true&locale=en" alt="sarafaizi557" /></p>
-
