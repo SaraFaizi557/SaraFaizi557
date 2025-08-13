@@ -1,19 +1,27 @@
-<h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Hi there! 👋 I'm Mohid
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarafaizi557&label=Profile%20views&color=0e75b6&style=flat" alt="sarafaizi557" /> </p>
+I'm a passionate full-stack developer with a keen interest in **Flutter**, **Node.js**, and **AI**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarafaizi557" alt="sarafaizi557" /></a> </p>
+## 🚀 Technologies & Tools:
+- **Languages:** Dart, JavaScript, TypeScript, Python
+- **Frameworks:** Flutter, React, Express.js, Next.js
+- **Databases:** PostgreSQL, MongoDB, Firebase
+- **Tools:** Docker, Git, CI/CD, Firebase, AWS
+- **AI Tools:** OpenAI API, TensorFlow
 
-- ⚡ Fun fact **I creat youtube video**
+## 🌱 Current Projects:
+- E-commerce app using **Flutter** and **Firebase**.
+- AI-based video generation platform similar to **Zack D Films**.
+- Contributing to open-source libraries related to **UI/UX design**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💬 How to Reach Me:
+- Email: [mohid@example.com](mailto:mohid@example.com)
+- LinkedIn: [Mohid's LinkedIn](https://www.linkedin.com/in/mohid)
+- Twitter: [@MohidDev](https://twitter.com/MohidDev)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## 📈 GitHub Stats:
+![Mohid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohidfaizy&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarafaizi557&show_icons=true&locale=en&layout=compact" alt="sarafaizi557" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarafaizi557&show_icons=true&locale=en" alt="sarafaizi557" /></p>
+## 👨‍💻 Latest Repositories:
+[![E-commerce Flutter](https://github-readme-stats.vercel.app/api/pin/?username=mohidfaizy&repo=amazify&theme=radical)](https://github.com/mohidfaizy/amazify)
+[![AI Video Generator](https://github-readme-stats.vercel.app/api/pin/?username=mohidfaizy&repo=ai-video-generator&theme=radical)](https://github.com/mohidfaizy/ai-video-generator)
