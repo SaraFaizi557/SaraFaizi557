@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/8g6JY7b/Developer-Banner.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">🔥 Hey, I'm <span style="color:#38BDF8;">Sara Faizi</span> — A Passionate Front-End Developer 💻</h1>
 
 <!-- ✅ WORKING Typing Animation -->
@@ -57,6 +52,33 @@
 </p>
 
 ---
+<!-- Animated Neon Divider (always animates) -->
+<p align="center">
+  <svg width="100%" height="16" viewBox="0 0 100 4" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="neon divider">
+    <defs>
+      <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#38BDF8"/>
+        <stop offset="50%" stop-color="#A855F7"/>
+        <stop offset="100%" stop-color="#38BDF8"/>
+      </linearGradient>
+      <filter id="softglow" x="-50%" y="-200%" width="200%" height="500%">
+        <feGaussianBlur stdDeviation="1.2" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <!-- base line -->
+    <rect x="0" y="1.5" width="100" height="1" rx="0.5" fill="#0b1220"/>
+    <!-- animated highlight sweeping across -->
+    <rect x="-100" y="1.2" width="100" height="1.6" rx="0.8" fill="url(#glow)" filter="url(#softglow)">
+      <animate attributeName="x" from="-100" to="100" dur="2.8s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+</p>
+
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
