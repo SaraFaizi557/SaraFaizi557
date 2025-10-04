@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/8g6JY7b/Developer-Banner.png" alt="Banner" width="100%">
+  <img src="[https://i.ibb.co/8g6JY7b/Developer-Banner.png](https://sdmntprpolandcentral.oaiusercontent.com/files/00000000-4e58-620a-aa48-2b236eb3c3d5/raw?se=2025-10-04T11%3A48%3A53Z&sp=r&sv=2024-08-04&sr=b&scid=0dfeed0c-4014-5961-9362-4533e1869269&skoid=d5627e4c-566b-4761-a954-54993b0ed17b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-03T22%3A58%3A28Z&ske=2025-10-04T22%3A58%3A28Z&sks=b&skv=2024-08-04&sig=tv3lfYSAXvPfeKho/Ju1llvaYxSwbceWIWN670ltXiY%3D)" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">🔥 Hey, I'm <span style="color:#38BDF8;">Sara Faizi</span> — A Passionate Front-End Developer 💻</h1>
