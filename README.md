@@ -1,10 +1,10 @@
-# 💥 Hey there, I'm [Your Name] — The Developer Who Turns Ideas into Reality 💻🔥  
+# 💥 Hey there, I'm Sara — The Developer Who Turns Ideas into Reality 💻🔥  
 
 > "I don’t just write code — I craft experiences that speak louder than words."
 
 ---
 
-### 🚀 About Me
+   🚀 About Me
 I’m not here to just build websites —  
 I’m here to **create digital experiences** that leave people saying *“Damn, that’s smooth!”*  
 
@@ -18,27 +18,9 @@ I’m here to **create digital experiences** that leave people saying *“Damn, 
 ### 🧠 My Tech Arsenal
 | 💻 Languages | ⚙️ Frameworks | 🎨 Styling | 🛠 Tools |
 |--------------|---------------|-------------|----------|
-| HTML, CSS, JS | React.js, Next.js (learning) | Tailwind CSS | Git, GitHub, VSCode |
+| HTML, CSS, JS | React.js | Tailwind CSS | Git, GitHub, VSCode |
 
 > “A developer is only as sharp as his tools — and mine are always ready.”
-
----
-
-### ⚡ Featured Projects
-#### 🧠 **Portfolio 2.0**
-> My digital identity. Responsive, bold, and alive — just like me.  
-**Tech:** React + Tailwind CSS + Framer Motion  
-🔗 [View Live](#)
-
-#### 🌦 **WeatherX**
-> A smooth UI with real-time API power. Because why should weather apps be boring?  
-**Tech:** React + API + Tailwind  
-🔗 [Check it Out](#)
-
-#### ✅ **TaskForge**
-> A Todo app reimagined — clean UI, local storage, instant actions.  
-**Tech:** JavaScript + Tailwind  
-🔗 [Try Now](#)
 
 ---
 
