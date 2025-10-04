@@ -52,11 +52,11 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </p>
 
 <h3 align="center">💥 “Code with passion, design with purpose, and build something that moves people.” 💥</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </p>
