@@ -51,18 +51,8 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
----
-<!-- Animated Neon Divider (always animates) -->
-<!-- base line -->
-<rect x="0" y="1.5" width="100" height="1" rx="0.5" fill="#0b1220"/>
-<!-- animated highlight sweeping across -->
-<rect x="-100" y="1.2" width="100" height="1.6" rx="0.8" fill="url(#glow)" filter="url(#softglow)">
-  <animate attributeName="x" from="-100" to="100" dur="2.8s" repeatCount="indefinite" />
-</rect>
-
-
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </p>
 
 <h3 align="center">💥 “Code with passion, design with purpose, and build something that moves people.” 💥</h3>
