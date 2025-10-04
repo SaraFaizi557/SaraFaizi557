@@ -1,33 +1,28 @@
-<!-- README.md for Sara (dark, energetic & professional) -->
-<h1 align="center">Hi, I'm Sara 👋</h1>
-<p align="center">
-  <em>Frontend Web Developer • HTML • CSS • JavaScript • React</em>
-</p>
+[README_Sara.md](https://github.com/user-attachments/files/22697332/README_Sara.md)
+<!-- Profile README for Sara | Dark & Playful Professional -->
+<div align="center">
+  
+# ⚠️ Warning: Professional Goofball Detected 🙂
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-9cf" alt="status"/>
-  <img src="https://img.shields.io/badge/Top%20Skill-React.js-61DAFB?logo=react&logoColor=white" alt="react"/>
-  <img src="https://img.shields.io/badge/Location-Pakistan-ff69b4" alt="location"/>
-  <img src="https://img.shields.io/badge/Email-your.email%40example.com-dd4b39" alt="email"/>
-</p>
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/refs/heads/main/banners/banner1.gif" alt="hero" width="720"/>
+
+**Frontend Web Developer — HTML • CSS • JavaScript • React.js**  
+Crafting fast, accessible, and delightful web experiences with a tiny bundle and a big smile.
+
+---
+</div>
+
+## 🧭 About Me
+I'm **Sara**, a detail‑obsessed frontend developer who loves clean UI, smooth micro‑interactions, and code that stays readable on Monday mornings.  
+I build component‑driven UIs with **React**, chase Core Web Vitals, and keep a sharp eye on accessibility (a11y) and performance.
+
+- 🔭 Current focus: shipping **responsive**, **accessible**, and **high‑performance** interfaces  
+- 🧱 Strengths: semantic HTML, modern CSS (Flex/Grid), state with Hooks/Context, API integration  
+- 🧰 Tooling: Git/GitHub, Vite, npm, VS Code, Chrome DevTools
 
 ---
 
-## ⚡ Quick Pitch
-I'm **Sara** — a passionate Frontend Developer who builds beautiful, fast, and accessible web apps. I turn ideas into pixel-perfect interfaces and reusable React components that just feel right. I love clean code, small bundles, and fast load times.
-
----
-
-## 🧾 Snapshot
-- 🔹 **Role:** Frontend Web Developer  
-- 🔹 **Primary:** HTML5, CSS3, JavaScript (ES6+), React.js  
-- 🔹 **Focus:** Responsive design, component-driven UI, accessibility (a11y), and performance  
-- 🔹 **Tools:** Git, GitHub, Vite, npm, VS Code, Chrome DevTools
-
----
-
-## 🛠️ Tech Stack & Skills
-
+## 🧰 My Skills
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
@@ -39,46 +34,71 @@ I'm **Sara** — a passionate Frontend Developer who builds beautiful, fast, and
 
 ---
 
-## 💡 Featured Projects
-> (Replace placeholders with your repo links)
-
-- **Portfolio Website** — A responsive, animated React portfolio with CSS Grid & accessible components.  
-  `https://github.com/YOUR_USERNAME/portfolio`
-- **Todo App** — Clean state with React hooks + localStorage + test cases.  
-  `https://github.com/YOUR_USERNAME/todo-app`
-- **Weather Dashboard** — Fetch API, graceful error UI, and caching.  
-  `https://github.com/YOUR_USERNAME/weather-app`
+## 🎉 Fun Facts
+- 🧩 I love turning Figma pixels into **production‑ready React components**.  
+- ⚡ I care (a lot) about **performance**: lazy loading, code‑splitting, prefetching, the works.  
+- 🎯 I refactor early—**readability > cleverness**.  
+- 🎧 Music + dark theme + a hot chai = **focus mode**.  
+- 🛠️ Favorite commit type: `chore: make it faster` 😄
 
 ---
 
-## ✨ What I care about
-- Fast, snappy user experience and minimal bundle sizes.  
-- Semantic HTML and accessible components (keyboard + screen reader friendly).  
-- Reusable, well-documented components & clean commit history.  
-- Learning new patterns & improving developer DX.
-
----
-
-## 📫 Contact
-- ✉️ Email — `your.email@example.com`  
-- 🔗 LinkedIn — `https://www.linkedin.com/in/YOUR_LINKEDIN`  
-- 🌐 Portfolio — `https://your-portfolio.com`  
-
----
-
-## 📈 GitHub Stats
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
-
----
-
-## 🎁 Bonus: Profile Card / Hero Image
-If you want the same style as your screenshot, upload your hero image to the repo (e.g., `assets/hero.png`) and add this markdown where you want the image to appear:
-
-```markdown
-<p align="center">
-  <img src="assets/hero.png" alt="hero" width="760"/>
+## 📫 Contact Me
+<p>
+  <a href="mailto:your.email@example.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact%20Me-dd4b39?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View%20Work-111111?logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/gifs/working.gif" width="520" alt="working at desk"/>
+</p>
+
+---
+
+## 🗂️ Featured Projects
+> Replace with your real repo links
+
+- **Responsive Portfolio** — Animated sections, route‑based code splitting, a11y‑first design.  
+  `https://github.com/YOUR_USERNAME/portfolio`  
+- **Todo App** — Hooks + Context, localStorage sync, keyboard‑friendly UI.  
+  `https://github.com/YOUR_USERNAME/todo-app`  
+- **Weather App** — Fetch API + caching + graceful error states.  
+  `https://github.com/YOUR_USERNAME/weather-app`  
+
+---
+
+## 📊 GitHub Stats
+> Replace `YOUR_GITHUB_USERNAME` with your username.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🥚 Bonus Easter Egg
+<details>
+  <summary>Click me for a random mini‑tip</summary>
+  <br/>
+  **Pro Tip:** Use `prefers-reduced-motion` to disable heavy animations for users who prefer minimal motion. Accessibility wins! 🎉
+</details>
+
+---
+
+### 🚀 How to Use
+1. Create a repo named **`YOUR_GITHUB_USERNAME`** (exactly your GitHub username).  
+2. Drop this file as `README.md`.  
+3. Replace all `YOUR_*` placeholders with your info.  
+4. Commit & push — your profile will instantly update.
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ by Sara — feedback welcome!</sub>
+</div>
