@@ -35,15 +35,6 @@
 | ✅ **TaskForge** | A clean, fast, and minimal Todo app. | JS, Tailwind |
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SaraFaizi557&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SaraFaizi557&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
