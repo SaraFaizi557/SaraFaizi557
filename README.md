@@ -15,11 +15,6 @@
 
 </div>
 
-<!-- Cute-but-professional coding GIF on the side -->
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJmZ3J4OWdyc2p3bGdxeTF2NnJ3dWE0bGx6cHNhbWQ5eG1jZXRqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
-</p>
-
 ---
 
 ### 👋 About Me
@@ -39,26 +34,6 @@ HTML & CSS ➜ JavaScript ➜ React ➜ Next.js (soon) ➜ Node.js + APIs ➜ Py
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github&perline=8" height="42" alt="skills" />
 </p>
-
----
-
-### ✨ Featured Projects
-> Replace with your repos when ready — keep them small, polished, and well-documented.
-
-- **Mini Portfolio (HTML + CSS)** — Clean, responsive, contact section  
-  🔗 https://github.com/YOUR_USERNAME/mini-portfolio
-
-- **To-Do App (JavaScript)** — LocalStorage, filters, keyboard shortcuts  
-  🔗 https://github.com/YOUR_USERNAME/todo-js
-
-- **React Playground** — Components, props/state, hooks practice  
-  🔗 https://github.com/YOUR_USERNAME/react-playground
-
----
-
-### 📊 Stats & Activity
-> Replace `YOUR_USERNAME` with your actual username.  
-> If you don’t want stats, you can comment this section out.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150" alt="streak"/>
