@@ -34,16 +34,6 @@ HTML & CSS ➜ JavaScript ➜ React ➜ Next.js (soon) ➜ Node.js + APIs ➜ Py
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github&perline=8" height="42" alt="skills" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="langs"/>
-</p>
-
 ---
 
 ### 🧩 Snippet of the Week
