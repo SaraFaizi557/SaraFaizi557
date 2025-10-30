@@ -1,50 +1,34 @@
 <!--
-  🔥 Premium GitHub Profile README by ChatGPT
-  Tip: Replace YOUR_USERNAME and your links. Everything else is plug-n-play.
+  🔥 AI + Web Developer Hybrid • Professional, attractive, GIF + icons
+  1) Replace YOUR_USERNAME everywhere
+  2) Optionally update links, projects, and contact info
 -->
 
 <!-- ====== TOP BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=140&section=header&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=140&section=header&text=AI%20+%20Web%20Developer&fontAlign=50&fontColor=ffffff&fontSize=34&animation=fadeIn" alt="header" />
 </p>
 
-<!-- ====== INTRO ====== -->
+<!-- ====== INTRO / TICKER ====== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1200&color=86A8E7&center=true&vCenter=true&width=700&lines=Web+Developer+in+progress+%F0%9F%9A%80;I+love+building+clean+UIs+and+learning+every+day;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Git%2FGitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Building+clean+UIs+%26+useful+AI+tools+🚀;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Python+%7C+Git%2FGitHub;Learning+daily%2C+shipping+weekly+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
----
-
-### 👋 About Me
-- 🚀 Beginner → Pro journey; learning **Web Development** with consistency  
-- 🎯 Focus right now: **HTML, CSS, JavaScript, React, Python, Git & GitHub**  
-- 🧠 Philosophy: *Learn → Build → Break → Fix → Repeat*  
-- 📝 I like shipping small, meaningful projects and writing clean code
-
----
-
-### 🧭 Roadmap
-HTML & CSS ➜ JavaScript ➜ React ➜ Next.js (soon) ➜ Node.js + APIs ➜ Python utilities
-
----
-
-### 🧰 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github&perline=8" height="42" alt="skills" />
+<!-- Side coding GIF (tasteful, professional) -->
+<p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmo2cmRmM2xwYmxyNHQ5bGJtdnoxZm1saXF4cG0waWcyYm9vM2ZhMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding-gif">
 </p>
+
 ---
 
-### 🧩 Snippet of the Week
-```js
-// tiny helper to select elements
-const $ = (selector) => document.querySelector(selector);
+## 👋 About Me
+- 💼 **AI + Web Developer (in progress)** — focused on **practical UI** and **useful automations**
+- 🧠 Stack right now: **HTML, CSS, JavaScript, React, Python, Git & GitHub**
+- 🎯 Philosophy: *Learn → Build → Ship → Improve*  
+- ✨ Interests: AI assistants, small SaaS utilities, clean component systems
 
-// debounce: avoid spamming expensive actions
-const debounce = (fn, delay = 300) => {
-  let t; return (...args) => { clearTimeout(t); t = setTimeout(() => fn(...args), delay); };
-};
-🤝 Let’s Connect
+---
 
-🧭 Portfolio: https://sara-portfolio-ashen.vercel.app/
+## 🧭 Roadmap
