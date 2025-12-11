@@ -18,7 +18,6 @@ I'm a passionate Web developer who loves building beautiful and functional web a
 ## 💬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sara-faizi/)
-- Discord: yurei_6
 
 ---
 
