@@ -1,24 +1,35 @@
-<!-- ⚡ Senior-Style Developer Profile • Clean • Professional • Subtle GIF -->
-# Hey, I'm Sara 👋
+# Hey, I'm Sara Faizi
 
-I'm a passionate Web developer who loves building beautiful and functional web applications. My goal is to create seamless user experiences using the latest technologies.
+I’m a **Frontend Developer** who builds clean, responsive, and accessible interfaces with **React** and **Next.js**.
+I care about **UI quality**, **performance**, and **developer-friendly component systems**.
 
-## 🛠️ Technologies & Tools
+### What I do
+- ⚡ Build modern web apps with **React / Next.js / TypeScript**
+- 🎨 Craft pixel-clean UIs with **Tailwind CSS** and component libraries (shadcn/ui)
+- ✅ Focus on **accessibility**, **responsive design**, and **performance**
+- 🧩 Create reusable components and scalable frontend architecture
 
-- **Frontend**: HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS
-- **Version Control**: Git, GitHub
-- **Tools & Others**: Figma, VS Code
+### Tech I use
+- **Frontend:** React, Next.js, TypeScript, JavaScript
+- **UI:** Tailwind CSS, shadcn/ui, Radix UI, CSS
+- **Tools:** Git, ESLint, Prettier, Vite
 
-## 🌱 I’m currently learning
-
-- Exploring **AI** and its applications in web development.
-- Improving **UI/UX** design for better user experiences.
-- Diving deeper into **Tailwind CSS** for responsive, clean designs.
-
-## 💬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/sara-faizi/)
+### Contact
+- 📫 Email: your@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_HANDLE  
+- 🌐 Portfolio: https://your-portfolio.com
 
 ---
 
-Feel free to browse through my repositories and contribute or ask for collaborations!
+## Featured Projects
+- **UI Components Library** — reusable components & patterns  
+  https://github.com/YOUR_USERNAME/ui-components
+- **Next.js Dashboard** — layouts, auth-ready structure, reusable UI  
+  https://github.com/YOUR_USERNAME/next-dashboard
+- **Landing Pages** — responsive, fast, conversion-focused pages  
+  https://github.com/YOUR_USERNAME/landing-pages
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
