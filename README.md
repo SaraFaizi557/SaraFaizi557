@@ -1,35 +1,52 @@
-# Hey, I'm Sara Faizi
+<div align="center">
 
-I’m a **Frontend Developer** who builds clean, responsive, and accessible interfaces with **React** and **Next.js**.
-I care about **UI quality**, **performance**, and **developer-friendly component systems**.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+<h1>Hey I'm Sara Faizi</h1>
 
-### What I do
-- ⚡ Build modern web apps with **React / Next.js / TypeScript**
-- 🎨 Craft pixel-clean UIs with **Tailwind CSS** and component libraries (shadcn/ui)
-- ✅ Focus on **accessibility**, **responsive design**, and **performance**
-- 🧩 Create reusable components and scalable frontend architecture
+Frontend Developer React, Next.js, TypeScript currently learning AI Engineering to build intelligent product experiences.
 
-### Tech I use
-- **Frontend:** React, Next.js, TypeScript, JavaScript
-- **UI:** Tailwind CSS, shadcn/ui, Radix UI, CSS
-- **Tools:** Git, ESLint, Prettier, Vite
+<br/>
 
-### Contact
-- 📫 Email: your@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_HANDLE  
-- 🌐 Portfolio: https://your-portfolio.com
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding" />
 
----
+<br/><br/>
 
-## Featured Projects
-- **UI Components Library** — reusable components & patterns  
-  https://github.com/YOUR_USERNAME/ui-components
-- **Next.js Dashboard** — layouts, auth-ready structure, reusable UI  
-  https://github.com/YOUR_USERNAME/next-dashboard
-- **Landing Pages** — responsive, fast, conversion-focused pages  
-  https://github.com/YOUR_USERNAME/landing-pages
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+## What I build
+- Modern, responsive web apps with **React / Next.js**
+- Clean UI systems (Tailwind + component libraries)
+- Performance + accessibility focused interfaces
+- Learning **AI Engineering** to ship AI-powered features with great UX
+
+## Tech
+**Frontend:** React, Next.js, TypeScript, JavaScript  
+**UI:** Tailwind CSS, shadcn/ui, Radix UI  
+**Tools:** Git, ESLint, Prettier
+
+## AI Engineering (Learning)
+- LLM fundamentals + prompt design
+- Integrating AI features into real products (chat, assistants, automations)
+- Practical workflows with clean UX
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+
+</div>
