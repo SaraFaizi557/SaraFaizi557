@@ -1,52 +1,94 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-<h1>Hey I'm Sara Faizi</h1>
+<!-- Top Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f172a&height=170&section=header&text=Sara&fontSize=50&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20Learning%20AI%20Engineering&descAlignY=70" />
 
-Frontend Developer React, Next.js, TypeScript currently learning AI Engineering to build intelligent product experiences.
+<!-- Typing line -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=700&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Clean+UI+%E2%80%A2+Performance+%E2%80%A2+Accessibility;Learning+AI+Engineering+for+AI-powered+Product+UX" />
 
-<br/>
+<!-- Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=1f2937" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=0f172a" />
+</p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="coding" />
+</div>
 
-<br/><br/>
+---
+
+## 👩‍💻 About
+I’m **Sara**, a **Frontend Developer** who builds modern, responsive and accessible user interfaces.  
+Currently learning **AI Engineering** to ship AI-powered features with clean product UX.
+
+- ✅ Strong focus: **UI quality**, **component architecture**, **performance**
+- 🧠 Learning: **LLMs**, AI integrations, practical AI features in real products
+
+---
+
+## 🧰 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma,git,github" />
+</div>
+
+---
+
+## ⭐ Open Source / Featured Projects
+<div align="center">
+
+<!-- Pin cards (replace repo names) -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ui-components&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=next-dashboard&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=landing-pages&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ai-ux-playground&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🤝 Connect with me
+<div align="center">
 
 <a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/YOUR_HANDLE">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## What I build
-- Modern, responsive web apps with **React / Next.js**
-- Clean UI systems (Tailwind + component libraries)
-- Performance + accessibility focused interfaces
-- Learning **AI Engineering** to ship AI-powered features with great UX
+## 🔥 Streak & Stats
+<div align="center">
 
-## Tech
-**Frontend:** React, Next.js, TypeScript, JavaScript  
-**UI:** Tailwind CSS, shadcn/ui, Radix UI  
-**Tools:** Git, ESLint, Prettier
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-## AI Engineering (Learning)
-- LLM fundamentals + prompt design
-- Integrating AI features into real products (chat, assistants, automations)
-- Practical workflows with clean UX
+</div>
 
 ---
 
+## 📈 Activity Graph
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 </div>
+
+---
+
+## 🎥 Latest YouTube Videos (Optional)
+<!--
+This section needs a GitHub Action to auto-update.
+If you have a YouTube channel, I can give you the exact workflow file too.
+-->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f172a&height=120&section=footer" />
