@@ -2,9 +2,7 @@
 
 # Hey, I’m Sara 👋
 
-I’m a **Frontend Developer** focused on building modern, responsive, and accessible web interfaces.  
-I care about **clean UI**, **performance**, and **maintainable component architecture**.  
-Right now, I’m also learning **AI Engineering** to build AI-powered product experiences with great UX.
+React/Next.js frontend developer focused on clean UI and performance. Now expanding into AI Engineering for AI powered UX.
 
 ---
 
@@ -39,7 +37,7 @@ Right now, I’m also learning **AI Engineering** to build AI-powered product ex
 ---
 
 ## 🤝 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/sara-faizi/
+- [LinkedIn](https://www.linkedin.com/in/sara-faizi/)
 
 ---
 
