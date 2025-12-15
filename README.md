@@ -1,6 +1,6 @@
 <!-- Clean • Professional • Motivated • Frontend + AI Learning -->
 
-# Hey, I’m Sara 👋
+# Hey, I’m Sara
 
 React/Next.js frontend developer focused on clean UI and performance. Now expanding into AI Engineering for AI powered UX.
 
