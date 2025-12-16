@@ -1,42 +1,35 @@
-<h1 align="center">
-  Sara Faizi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h1>
-
+<h1 align="center">Sara Faizi</h1>
 <p align="center">
-  React / Next.js Frontend Engineer · Clean UI · Performance · AI-Powered UX
+  Frontend Engineer (React · Next.js) — clean UI, strong performance, and scalable component systems.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKx9zF7zD0CjH2U/giphy.gif" width="18" />
   <a href="https://www.linkedin.com/in/sara-faizi/">LinkedIn</a>
+  ·
+  <a href="mailto:your@email.com">Email</a>
+  ·
+  <a href="https://github.com/your-username">GitHub</a>
+  ·
+  <a href="https://your-portfolio.com">Portfolio</a>
 </p>
 
 ---
 
-## Focus
-- Pixel-clean UI (detail obsessed)
-- Scalable component patterns
-- Performance + accessibility
-- Learning AI Engineering for practical product features
+### What I do
+- Build production-grade UIs with attention to detail and consistency  
+- Design scalable component patterns and maintainable front-end architecture  
+- Improve performance, accessibility, and real-world UX quality  
+- Exploring AI Engineering to ship practical AI features inside web products
 
-## Tech
-- React · Next.js · TypeScript · JavaScript
-- Tailwind · shadcn/ui · Radix UI
-- Git/GitHub · Figma · VS Code
+### Tech I use
+**Frontend:** React, Next.js, TypeScript, JavaScript  
+**UI:** Tailwind CSS, shadcn/ui, Radix UI  
+**Tools:** Git, GitHub, Figma, VS Code
 
-## Currently Learning (AI)
-- LLM basics + prompt design
-- AI features inside web apps (chat/assistants)
-- Workflow automation with UX-first approach
+### Currently learning
+- LLM fundamentals (practical application)  
+- AI-assisted UX patterns (chat, copilots, automation)  
+- Workflow design that stays fast and simple
 
-## Standards
-- Clean code > clever code
-- Reusable by default
-- Responsive + accessible always
-- Ship iteratively with quality
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="22" />
-  Open to collaboration on premium frontend + AI UX
-</p>
+### Collaboration
+If you're building a product that needs a premium front-end and solid UX, feel free to reach out.
