@@ -4,15 +4,15 @@
 Right now, I’m learning AI Engineering to add practical, AI-powered features to modern web products.**
 
 ## What I focus on
-- **Building pixel-accurate and consistent UI**  
-- **Writing reusable and scalable frontend code** 
-- **Improving performance and accessibility in real-world apps**  
-- **Integrating AI features that actually improve UX**  
+- *Building pixel-accurate and consistent UI*
+- *Writing reusable and scalable frontend code*
+- *Improving performance and accessibility in real-world apps*
+- *Integrating AI features that actually improve UX*
 
 ## Tech I work with
-*Frontend:* React, Next.js, TypeScript, JavaScript  
-*UI:* Tailwind CSS, shadcn/ui, Radix UI, HTML, CSS  
-*Tools:* Git, GitHub, Figma, VS Code  
+**Frontend:** React, Next.js, TypeScript, JavaScript  
+**UI:** Tailwind CSS, shadcn/ui, Radix UI, HTML, CSS  
+**Tools:** Git, GitHub, Figma, VS Code  
 
 ## Currently learning (AI Engineering)
 - LLM fundamentals and prompt design  
