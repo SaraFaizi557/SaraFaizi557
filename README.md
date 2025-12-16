@@ -1,4 +1,4 @@
-# I'm Sara
+# Hey, I'm Sara
 
 I’m a React / Next.js frontend developer who focuses on building clean, performant, and maintainable user interfaces.  
 Right now, I’m learning AI Engineering to add practical, AI-powered features to modern web products.
