@@ -1,6 +1,6 @@
 <h1 align="center">Sara Faizi</h1>
 <p align="center">
-  Frontend Engineer (React · Next.js) — clean UI, strong performance, and scalable component systems.
+  Frontend Engineer (React · Next.js) clean UI, strong performance, and scalable component systems.
 </p>
 
 <p align="center">
