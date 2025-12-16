@@ -1,7 +1,7 @@
 <!-- HERO -->
 <h1 align="center">Sara Faizi</h1>
 <p align="center">
-  Frontend Engineer — React / Next.js • UI Craft • Performance • AI-powered UX
+  Frontend Engineer React / Next.js • UI Craft • Performance • AI-powered UX
 </p>
 
 <p align="center">
