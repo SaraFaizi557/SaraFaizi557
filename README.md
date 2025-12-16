@@ -1,61 +1,56 @@
-<!-- HERO -->
-<h1 align="center">Sara Faizi</h1>
-<p align="center">
-  Frontend Engineer React / Next.js • UI Craft • Performance • AI-powered UX
-</p>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="https://YOUR_PORTFOLIO">Portfolio</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&label=Profile%20Views" />
-  <img src="https://img.shields.io/badge/Focus-Clean%20UI%20%26%20Performance-111827?style=flat" />
-  <img src="https://img.shields.io/badge/Learning-AI%20Engineering-111827?style=flat" />
-</p>
+<h3 align="center">I’m Sara — Frontend Engineer (React/Next.js) focused on clean UI, performance, and scalable component systems.</h3>
 
 ---
 
-## Snapshot
-<table>
-  <tr>
-    <td width="62%">
-      <ul>
-        <li><b>What I build:</b> production-grade web interfaces with strong UX polish</li>
-        <li><b>What I care about:</b> consistency, accessibility, and real performance wins</li>
-        <li><b>What I’m expanding into:</b> AI engineering for practical product features</li>
-      </ul>
-    </td>
-    <td width="38%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+</div>
 
 ---
 
-## Tech
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,git,github,figma&perline=11" />
-</p>
+<div align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin badge" />
+  </a>
+  <a href="YOUR_TWITTER_URL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x badge" />
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email badge" />
+  </a>
+</div>
 
 ---
 
-## Featured Work
-- **PROJECT_1** — short one-liner what it does • <a href="PROJECT_1_LINK">Repo</a> / <a href="PROJECT_1_LIVE">Live</a>  
-- **PROJECT_2** — short one-liner what it does • <a href="PROJECT_2_LINK">Repo</a> / <a href="PROJECT_2_LIVE">Live</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=6&order=1" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
+</div>
 
 ---
 
-## Now exploring
-- LLM basics (hands-on)
-- AI features inside web apps (assistants, chat, automation)
-- UX-first workflows that stay fast and simple
-
----
-
-<p align="center">
-  <sub>If you're building something serious and need a premium frontend, I’m open to collaboration.</sub>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
+</picture>
