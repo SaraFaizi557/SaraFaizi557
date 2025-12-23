@@ -1,7 +1,7 @@
 # Hey, I'm Sara
 
 **I'm a React, Next.js frontend developer who focuses on building clean, performant, and maintainable user interfaces.  
-Right now, I'm learning AI Engineering to add practical, AI powered features to modern web products.**
+Right now, I'm learning Python to add practical**
 
 ## What I focus on
 - *Building pixel-accurate and consistent UI*
@@ -14,10 +14,8 @@ Right now, I'm learning AI Engineering to add practical, AI powered features to 
 **UI:** *Tailwind CSS, shadcn ui, HTML, CSS*  
 **Tools:** *Git, GitHub, Figma, VS Code*  
 
-## Currently learning (AI Engineering)
+## Currently learning
 - *Python for AI and backend tooling*
-- *AI features like chat, assistants, and automation*  
-- *UX first AI workflows that stay simple and fast*  
 
 ## Let’s connect
 - [LinkedIn](https://www.linkedin.com/in/sara-faizi/)
