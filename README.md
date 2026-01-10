@@ -19,5 +19,6 @@ Right now, I'm learning Python to add practical**
 
 ## Let’s connect
 - [LinkedIn](https://www.linkedin.com/in/sara-faizi/)
+- [Send me anonymous comments](https://talksy-sigma.vercel.app/)
 
 > If you’re building something interesting and need a frontend that feels premium I’m open to collaboration.
